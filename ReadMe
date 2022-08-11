@@ -1,0 +1,10 @@
+This is the version 1 of my Project. The project is about the Banking Management sysem based on C language with Inclusion of File handling Nad all other components of C.
+The Project handles an account Created. All transaction are handled and is saved in the file.
+The account is created using an random number. And all is managed with an Structure Whole structure is svaed in file with data like name account number, Pin, Name, Balance, etc.
+The transactions are done with thw account number and pin only make sure to have written down the generated account number when created.
+
+Creater of the project :
+Vedant A. Karande
+DOT, Shivaji University, KOlhapur.
+
+THank You, If you like the Project.
